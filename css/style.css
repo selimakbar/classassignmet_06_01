@@ -1,0 +1,50 @@
+.header{
+	height: 100px;
+	background-color: red;
+	font-size: 50px;
+	text-align: center;
+}
+.container{
+	overflow: hidden;
+	font-size: 50px;
+	text-align: center;
+}
+.blog{
+	float: left;
+	width: 60%;
+	height: 200px;
+	background-color: green;
+	box-sizing: border-box;
+}
+.contract{
+	float: right;
+	width: 40%;
+	height: 200px;
+	background-color: blue;
+	box-sizing: border-box;
+}
+.item{
+	float: left;
+	width: 33%;
+	height: 100px;
+	box-sizing: border-box;
+	text-align: center;
+	font-size: 50px;
+}
+.yellow{
+	padding: 10px 10px 10px 10px;
+	background-color: yellow;
+}
+.teal{
+	background-color: teal;
+}
+.tomato{
+	background-color: tomato;
+}
+.footer{
+	height: 100px;
+	background-color: orange;
+	text-align: center;	
+	font-size: 50px;
+	text-align: center;
+}
